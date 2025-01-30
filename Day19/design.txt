@@ -1,0 +1,23 @@
+-------------------------------------------------------------------------------------
+EID	NAME	AGE	DEPATMENT	  
+--------------------------------------------------------------------------------------
+
+
+------------------------------------
+SALARY	  BASIC	  HRA	TA  DA	PF
+-----------------------------------
+
+DEPATMENT	DESIGNATION
+
+DEPARTMENT	HOD
+
+----------------------------------
+EID	NAME	AGE	DEPATMENT
+----------------------------------
+
+final
+
+1	 :  EID	  NAME	 AGE	DEPARTMENT salary
+2	 :  DEPARTMENT	DESIGNATION  
+3	 :  DEPARTMENT	HOD
+4	 :  salary BASIC HRA TA  DA PF
